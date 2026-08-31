@@ -1,0 +1,51 @@
+# Data / intermediate files
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+*.crai
+*.vcf
+*.vcf.gz
+*.bcf
+*.g.vcf
+*.g.vcf.gz
+*.tbi
+*.csi
+*.bed.gz
+
+# Large analysis outputs
+*.psmc
+*.psmcfa
+*.phy
+*.treefile
+*.nwk
+*.P
+*.Q
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+nohup.out
+.tmp/
+tmp/
+.DS_Store
+__pycache__/
+
+# Local configuration / real sample metadata
+config/config.sh
+config/samples.tsv
+config/populations.tsv
+config/chromosomes.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Plot outputs
+*.png
+*.pdf
+*.svg

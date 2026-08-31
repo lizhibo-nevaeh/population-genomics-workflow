@@ -1,0 +1,5 @@
+sample_id	r1	r2	population
+SAMPLE01	/path/to/SAMPLE01_R1.fastq.gz	/path/to/SAMPLE01_R2.fastq.gz	POP_A
+SAMPLE02	/path/to/SAMPLE02_R1.fastq.gz	/path/to/SAMPLE02_R2.fastq.gz	POP_A
+SAMPLE03	/path/to/SAMPLE03_R1.fastq.gz	/path/to/SAMPLE03_R2.fastq.gz	POP_B
+SAMPLE04	/path/to/SAMPLE04_R1.fastq.gz	/path/to/SAMPLE04_R2.fastq.gz	POP_B
