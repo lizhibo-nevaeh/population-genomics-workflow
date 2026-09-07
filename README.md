@@ -239,3 +239,19 @@ python scripts/20_plot_psmc.py \
 
 Study-specific paths, sample identifiers, sequencing data, and unpublished results are not included. Dataset-specific filters, population definitions, mutation rates, generation times, and other biological parameters should be reviewed before use.
 
+## Usage & attribution
+
+This repository is shared as part of my academic and technical portfolio.
+
+No open-source license is granted. Reuse, redistribution, or republication
+of substantial portions of this repository is not permitted without prior
+permission.
+
+If you would like to reuse or adapt any part of this work, please contact
+the author and provide appropriate attribution.
+
+**Author:** Zhibo Li
+
+© 2026 Zhibo Li. All rights reserved.
+
+
